@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	margin: 200px;
+}
+
+label {
+	margin-top: 100px;
+	color: rgb(255, 6, 6);
+	font-size: 100px;
+}
+
+button {
+	padding: 15px 50px;
+	margin: 20px 15px;
+	color: black;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border: 1px solid transparent;
+	background-color: rgb(87, 87, 255);
+}
