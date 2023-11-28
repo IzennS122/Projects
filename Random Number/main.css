@@ -1,0 +1,37 @@
+body {
+	background-color: rgb(86, 84, 84);
+	font-family: Arial;
+	display: flex;
+	justify-content: center;
+	margin: 200px;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 150px;
+	height: 290px;
+	border: 2px solid black;
+	padding: 20px;
+	border-radius: 5px;
+	overflow: hidden;
+	justify-content: space-evenly;
+}
+
+Label {
+	color: white;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+
+button {
+	background-color: rgb(50, 19, 78);
+	padding: 9px 30px;
+	color: white;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
